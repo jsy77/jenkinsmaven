@@ -1,4 +1,4 @@
-# sparkjava-war-example-Sai.
+# sparkjava-war-example JSY.
 Build war with maven and sparkjava framework.
 
 Steps:-
