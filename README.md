@@ -1,4 +1,4 @@
-# sparkjava-war-example-Sai.
+# sparkjava-war-example-Jiten.
 Build war with maven and sparkjava framework.
 
 Steps:-
